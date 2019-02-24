@@ -21,7 +21,7 @@ const Home = () => {
         <div className="row">
           <div className="col s12 l5 offset-l2">
             <h4>Extending a helping hand</h4>
-            There's no doubt the visually impaired children will contribute to
+            There no doubt the visually impaired children will contribute to
             the society and create wonders provided they have a proper access to
             reading materials. Our education becomes meaningless when it cannot
             be even useful to enrich one fellow being who has certain special
@@ -56,7 +56,7 @@ const Home = () => {
         </div>
         <div className="footer-copyright">
           <div className="container">
-            © 2014 Copyright 2019
+            © Copyright 2019
             <a className="grey-text text-lighten-4 right" href="#!">
               Made with <i className="material-icons">favorite</i> by Dhyakesh S
               & Aasikaa CMR
