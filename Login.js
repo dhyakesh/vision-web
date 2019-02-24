@@ -124,7 +124,7 @@ class Login extends Component {
             </div>
             <div className="footer-copyright">
               <div className="container">
-                © 2014 Copyright 2019
+                ©Copyright 2019
                 <a className="grey-text text-lighten-4 right" href="#!">
                   Made with <i className="material-icons">favorite</i> by
                   Dhyakesh S & Aasikaa CMR
