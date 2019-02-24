@@ -14,12 +14,12 @@ import Divider from "@material-ui/core/Divider";
 import AudioPlayer from "react-h5-audio-player";
 import * as firebase from "firebase";
 var config = {
-  apiKey: "AIzaSyDO6tNkGcSGQVunHyNeEo-GAJDeNFoU2Vc",
-  authDomain: "vision-43124.firebaseapp.com",
-  databaseURL: "https://vision-43124.firebaseio.com",
-  projectId: "vision-43124",
-  storageBucket: "vision-43124.appspot.com",
-  messagingSenderId: "519317610341"
+  apiKey: "",
+  authDomain: "m",
+  databaseURL: "",
+  projectId: "v4",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 export default class Display extends Component {
   state = {
