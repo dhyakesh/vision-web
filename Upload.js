@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import firebase from "firebase";
 var config = {
-  apiKey: "AIzaSyDO6tNkGcSGQVunHyNeEo-GAJDeNFoU2Vc",
-  authDomain: "vision-43124.firebaseapp.com",
-  databaseURL: "https://vision-43124.firebaseio.com",
-  projectId: "vision-43124",
-  storageBucket: "vision-43124.appspot.com",
-  messagingSenderId: "519317610341"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "hm",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "51"
 };
 //firebase.initializeApp(config);
 class Upload extends Component {
