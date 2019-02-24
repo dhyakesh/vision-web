@@ -3,12 +3,12 @@ import firebase from "firebase";
 import Button from "@material-ui/core/Button";
 import Tab from "./Tab";
 var config = {
-  apiKey: "AIzaSyDO6tNkGcSGQVunHyNeEo-GAJDeNFoU2Vc",
-  authDomain: "vision-43124.firebaseapp.com",
-  databaseURL: "https://vision-43124.firebaseio.com",
-  projectId: "vision-43124",
-  storageBucket: "vision-43124.appspot.com",
-  messagingSenderId: "519317610341"
+  apiKey: "AAAAAAAAAAAc",
+  authDomain: "AAAAAAAAAAA",
+  databaseURL: "hAAAAAAAAAAAm",
+  projectId: "AAAAAAAAAAA4",
+  storageBucket: "AAAAAAAAAAAm",
+  messagingSenderId: "5AAAAAAAAAAA1"
 };
 var signin = false;
 firebase.initializeApp(config);
